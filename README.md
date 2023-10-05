@@ -114,6 +114,7 @@ Program for flipflops  and verify its truth table in quartus using Verilog progr
 Developed by: v.sreeja
 RegisterNumber:  212222230169
 */
+```
 i) SR Flip-Flop:
 module sr(s,r,clk,q,qbar);
 input s,r,clk;
@@ -168,10 +169,11 @@ q=(T&(~q))|((~T)&q);
 qbar=(~q);
 end
 endmodule
-
+```
 ### RTL LOGIC FOR FLIPFLOPS 
 
 i) SR Flip-Flop:
+
 ![Screenshot (378)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/2378a043-0c03-45a2-933d-ac5f14064f1d)
 
 ii) D Flip-Flop:
@@ -186,6 +188,7 @@ iv) T Flip-Flop:
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 
 i) SR Flip-Flop:
+
 ![Screenshot (382)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/bb1e5e01-adba-4a3e-88ff-04e2e02602ca)
 
 ii) D Flip-Flop:
