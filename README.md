@@ -202,7 +202,7 @@ iii) JK Flip-Flop:
 
 ![Screenshot (384)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/78a2328f-328f-4273-8815-1bab54293b31)
 
-iv) T Flip-Flop:
+
 
 ![Screenshot (385)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/f85460b8-beec-43e4-9f5f-a04889c9545f)
 
