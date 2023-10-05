@@ -177,12 +177,15 @@ i) SR Flip-Flop:
 ![Screenshot (378)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/2378a043-0c03-45a2-933d-ac5f14064f1d)
 
 ii) D Flip-Flop:
+
 ![Screenshot (379)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/ea69c723-34a5-4180-b0a3-c9a6f8d3f378)
 
 iii) JK Flip-Flop:
+
 ![Screenshot (380)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/32b0c76e-9ac8-4548-9dec-3e21d5656c02)
 
 iv) T Flip-Flop:
+
 ![Screenshot (381)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/9affdf41-0be4-489d-aa27-66835bdf6159)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
@@ -192,12 +195,15 @@ i) SR Flip-Flop:
 ![Screenshot (382)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/bb1e5e01-adba-4a3e-88ff-04e2e02602ca)
 
 ii) D Flip-Flop:
+
 ![Screenshot (383)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/579f16d6-aa04-4ba0-9a52-7c1ff302a9d6)
 
 iii) JK Flip-Flop:
+
 ![Screenshot (384)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/78a2328f-328f-4273-8815-1bab54293b31)
 
 iv) T Flip-Flop:
+
 ![Screenshot (385)](https://github.com/VelasiriSreeja/Experiment--05-Implementation-of-flipflops-using-verilog/assets/118344328/f85460b8-beec-43e4-9f5f-a04889c9545f)
 
 ### RESULTS 
